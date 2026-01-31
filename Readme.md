@@ -69,6 +69,7 @@ After comparing all models, **XGBoost** outperformed the others in terms of reca
 Here’s the structure of the project:
 
 Fatigue-Level-Classifier/
+
 ├── Data/
 │   ├── Best_Model/             # Final production-ready model
 │   ├── Engineered_Data/        # Features ready for training
