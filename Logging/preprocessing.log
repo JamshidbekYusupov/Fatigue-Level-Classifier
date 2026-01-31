@@ -1,0 +1,34 @@
+2026-01-29 17:55:15,541-INFO-Data Loading Started
+2026-01-29 17:55:15,541-INFO-Data Loading Started
+2026-01-29 17:56:50,300-INFO-Data Loading Preprocessing has started
+2026-01-29 17:56:50,300-INFO-Data Loading Preprocessing has started
+2026-01-29 17:59:39,380-INFO-Data Preprocessing has started
+2026-01-29 17:59:39,380-INFO-Data Preprocessing has started
+2026-01-29 18:00:31,823-INFO-Data Preprocessing has started
+2026-01-29 18:00:31,823-INFO-Data Preprocessing has started
+2026-01-29 18:03:38,003-INFO-Data Preprocessing has started
+2026-01-29 18:05:55,275-INFO-Data Preprocessing has started
+2026-01-29 18:09:31,752-INFO-Data Preprocessing has started
+2026-01-29 18:12:21,908-INFO-Data Preprocessing has started
+2026-01-29 18:12:38,717-INFO-Data Preprocessing has started
+2026-01-29 18:25:03,324-INFO-Data Preprocessing has started
+2026-01-29 18:33:28,769-INFO-Data Preprocessing has started
+2026-01-29 18:45:18,840-INFO-Preprocessing has finished
+2026-01-29 18:46:12,628-INFO-Data Preprocessing has started
+2026-01-29 18:46:12,628-INFO-Preprocessing has finished
+2026-01-29 18:50:36,177-INFO-Data Preprocessing has started
+2026-01-29 18:50:36,177-INFO-Preprocessing has finished
+2026-01-29 18:50:36,277-INFO-Missing values are filled
+2026-01-29 18:50:36,364-INFO-Dataset is Encoded
+2026-01-29 18:50:36,583-INFO-Dataset is scaled
+2026-01-29 19:04:18,871-INFO-Data Preprocessing has started
+2026-01-29 19:04:26,430-INFO-Data Preprocessing has started
+2026-01-29 19:04:26,506-INFO-Missing values are filled
+2026-01-29 19:04:26,584-INFO-Dataset is Encoded
+2026-01-29 19:04:26,785-INFO-Dataset is scaled
+2026-01-29 19:05:12,532-INFO-Missing values are filled
+2026-01-29 19:05:12,607-INFO-Dataset is Encoded
+2026-01-29 19:05:12,801-INFO-Dataset is scaled
+2026-01-30 20:09:24,334-INFO-Missing values are filled
+2026-01-30 20:09:24,411-INFO-Dataset is Encoded
+2026-01-30 20:09:24,612-INFO-Dataset is scaled

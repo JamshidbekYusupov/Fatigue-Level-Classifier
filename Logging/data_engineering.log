@@ -1,0 +1,15 @@
+2026-01-30 22:22:37,970-INFO-Feature Engineering Started
+2026-01-30 22:22:43,755-INFO-Feature Engineering Started
+2026-01-30 22:23:25,905-INFO-Feature Engineering Started
+2026-01-30 22:26:54,763-INFO-Feature Engineering Started
+2026-01-30 22:26:54,800-INFO-Feature adding is DONE SUCCESSFULLY
+2026-01-30 22:26:56,136-INFO-Feture Selection is DONE SUCCESSFULLY
+2026-01-30 22:26:56,143-INFO-Skevness is Handeled SUCCESSFULLY
+2026-01-30 22:26:56,330-INFO-Transformed data is saved at C:\Fatigue_Level\Data\Engineered_Data
+2026-01-30 22:36:45,318-INFO-Feature Engineering Started
+2026-01-30 22:36:52,885-INFO-Feature Engineering Started
+2026-01-30 22:36:52,917-INFO-Feature adding is DONE SUCCESSFULLY
+2026-01-30 22:36:54,372-INFO-Feture Selection is DONE SUCCESSFULLY
+2026-01-30 22:36:54,380-INFO-Skevness is Handeled SUCCESSFULLY
+2026-01-30 22:36:54,561-INFO-Transformed data is saved at C:\Fatigue_Level\Data\Engineered_Data
+2026-01-30 22:36:54,572-INFO-y_train and y_test sets are also SAVED at: C:\Fatigue_Level\Data\Engineered_Data

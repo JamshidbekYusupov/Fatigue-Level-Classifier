@@ -1,0 +1,138 @@
+2026-01-28 20:43:10,283-INFO-Data Analysis boshlandi
+2026-01-28 20:45:34,574-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 20:47:48,861-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 20:50:28,536-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-28 20:52:19,825-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 20:53:56,124-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 20:57:03,765-INFO-Heatmap is DONE to find correlation
+2026-01-28 21:18:17,798-INFO-Data Analysis boshlandi
+2026-01-28 21:22:17,167-INFO-Data Analysis boshlandi
+2026-01-28 21:22:36,887-INFO-Data Analysis boshlandi
+2026-01-28 21:22:57,443-INFO-Data Analysis boshlandi
+2026-01-28 21:22:57,443-INFO-Data Analysis boshlandi
+2026-01-28 21:23:31,421-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:23:31,421-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:23:34,380-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:23:34,380-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:23:34,381-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:23:34,381-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:23:36,020-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:23:36,020-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:23:38,549-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:23:38,549-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:29:34,389-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:36,395-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:29:36,395-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:29:37,266-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:29:37,964-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:29:38,892-INFO-Data Analysis boshlandi
+2026-01-28 21:29:39,311-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:39,311-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:39,810-INFO-Data Analysis boshlandi
+2026-01-28 21:29:43,385-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:45,675-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:29:45,675-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:29:45,676-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:29:45,676-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:29:47,080-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:29:47,080-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:29:48,278-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:29:48,278-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:29:49,630-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:49,630-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:51,547-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:29:51,547-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:29:51,547-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:29:51,547-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:29:53,227-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:29:53,227-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:29:54,675-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:29:54,675-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:29:59,383-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:59,383-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:29:59,384-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:02,502-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:02,502-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:02,502-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:30:02,502-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:30:03,915-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:03,915-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:05,451-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:05,451-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:06,730-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:30:06,730-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:30:08,285-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:08,285-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:08,285-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:30:08,285-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:30:09,459-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:09,459-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:10,697-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:10,697-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:12,228-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:30:12,228-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:30:13,580-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:13,580-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:13,580-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:30:13,580-ERROR-Visualization of Hours awake vs fatigue is DONE: name 'df' is not defined
+2026-01-28 21:30:14,964-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:14,964-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:16,383-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:16,383-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:17,733-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-28 21:30:19,147-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:20,732-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:30:21,616-INFO-Data Analysis boshlandi
+2026-01-28 21:30:22,532-INFO-Data Analysis boshlandi
+2026-01-28 21:30:23,423-INFO-Data Analysis boshlandi
+2026-01-28 21:30:24,304-INFO-Data Analysis boshlandi
+2026-01-28 21:30:25,364-INFO-Data Analysis boshlandi
+2026-01-28 21:30:26,397-INFO-Data Analysis boshlandi
+2026-01-28 21:30:27,200-INFO-Data Analysis boshlandi
+2026-01-28 21:30:28,012-INFO-Data Analysis boshlandi
+2026-01-28 21:30:28,832-INFO-Data Analysis boshlandi
+2026-01-28 21:30:29,651-INFO-Data Analysis boshlandi
+2026-01-28 21:30:32,105-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:30:33,634-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:30:34,988-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-28 21:30:36,285-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:30:38,186-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:33:44,649-INFO-Data Analysis boshlandi
+2026-01-28 21:33:46,169-INFO-Data Analysis boshlandi
+2026-01-28 21:35:43,034-INFO-Data Analysis boshlandi
+2026-01-28 21:35:47,718-INFO-Visualization of Fatigue Distribution is done
+2026-01-28 21:35:49,375-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-28 21:35:50,920-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-28 21:35:52,182-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-28 21:35:53,426-INFO-Visualization of Stress vs error rate is DONE
+2026-01-28 21:35:54,666-INFO-Heatmap is DONE to find correlation
+2026-01-29 00:49:26,660-INFO-Data Analysis boshlandi
+2026-01-29 00:49:34,813-INFO-Data Analysis boshlandi
+2026-01-29 00:49:41,862-INFO-Visualization of Fatigue Distribution is done
+2026-01-29 00:49:43,048-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-29 00:49:44,662-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-29 00:49:46,180-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-29 00:49:47,809-INFO-Visualization of Stress vs error rate is DONE
+2026-01-29 00:49:49,335-INFO-Heatmap is DONE to find correlation
+2026-01-29 00:51:32,064-INFO-Data Analysis boshlandi
+2026-01-29 00:51:32,064-INFO-Data Analysis boshlandi
+2026-01-29 00:51:38,555-INFO-Visualization of Fatigue Distribution is done
+2026-01-29 00:51:38,555-INFO-Visualization of Fatigue Distribution is done
+2026-01-29 00:51:40,745-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-29 00:51:40,745-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-29 00:51:42,537-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-29 00:51:42,537-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-29 00:51:44,496-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-29 00:51:44,496-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-29 00:51:46,814-INFO-Visualization of Stress vs error rate is DONE
+2026-01-29 00:51:46,814-INFO-Visualization of Stress vs error rate is DONE
+2026-01-29 00:51:48,964-INFO-Heatmap is DONE to find correlation
+2026-01-29 00:51:48,964-INFO-Heatmap is DONE to find correlation
+2026-01-29 00:56:28,594-INFO-Data Analysis boshlandi
+2026-01-29 00:56:36,898-INFO-Data Analysis boshlandi
+2026-01-29 16:10:26,946-INFO-Visualization of Fatigue Distribution is done
+2026-01-29 16:10:29,578-INFO-Visualizaton of Fatigue level counts is DONE
+2026-01-29 16:10:31,150-INFO-Visualization of Hours awake vs fatigue is DONE
+2026-01-29 16:10:32,631-INFO-Visualization of Sleep vs fatigue is DONE
+2026-01-29 16:10:34,412-INFO-Visualization of Stress vs error rate is DONE
+2026-01-29 16:10:35,781-INFO-Heatmap is DONE to find correlation
