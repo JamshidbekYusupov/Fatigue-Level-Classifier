@@ -67,43 +67,6 @@ After comparing all models, **XGBoost** outperformed the others in terms of reca
 ## Project Structure 📂
 
 Here’s the structure of the project:
-
-<<<<<<< HEAD
-Fatigue-Level-Classifier/
-├── Data/
-│   ├── Best_Model/             
-│   ├── Engineered_Data/        
-│   ├── Logging/               
-│   ├── Metrics/                
-│   ├── Models/                 
-│   ├── Preprocessed_Data/     
-│   └── Raw_Data/               
-├── Notebook/
-│   ├── data_analysis.ipynb
-│   ├── data_loader.ipynb
-│   ├── engineering.ipynb
-│   ├── preprocessing.ipynb
-│   ├── testing.ipynb
-│   └── training.ipynb
-├── Scripts/                    
-│   ├── data_analysis.py
-│   ├── data_engineering.py
-│   ├── data_loader.py
-│   ├── data_preprocessing.py
-│   ├── model_testing.py
-│   └── model_training.py
-├── src/                        # Modular, reusable logic
-│   ├── __init__.py             
-│   ├── data_analysis.py
-│   ├── data_engineering.py
-│   ├── data_loader.py
-│   ├── data_preprocessing.py
-│   ├── model_testing.py
-│   └── model_training.py
-├── .gitignore                  # Prevents data/logs from being uploaded
-├── README.md                   # Project documentation
-└── requirements.txt            # Library dependencies
-=======
 <img width="786" height="495" alt="image" src="https://github.com/user-attachments/assets/9b4884ef-f8dd-4729-8a64-659be84c2979" />
 >>>>>>> 670c0f2ef14d4a50bc8372f6faab31a3b74a30a1
 
