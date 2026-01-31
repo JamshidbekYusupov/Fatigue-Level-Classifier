@@ -70,13 +70,13 @@ Here’s the structure of the project:
 
 Fatigue-Level-Classifier/
 ├── Data/
-│   ├── Best_Model/             # Final production-ready model
-│   ├── Engineered_Data/        # Features ready for training
-│   ├── Logging/                # Training/Error logs
-│   ├── Metrics/                # JSON/CSV performance results
-│   ├── Models/                 # Checkpoints during training
-│   ├── Preprocessed_Data/      # Cleaned/Imputed data
-│   └── Raw_Data/               # Original Kaggle/Source data
+│   ├── Best_Model/             
+│   ├── Engineered_Data/        
+│   ├── Logging/               
+│   ├── Metrics/                
+│   ├── Models/                 
+│   ├── Preprocessed_Data/     
+│   └── Raw_Data/               
 ├── Notebook/
 │   ├── data_analysis.ipynb
 │   ├── data_loader.ipynb
