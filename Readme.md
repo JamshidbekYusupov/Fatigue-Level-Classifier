@@ -70,45 +70,6 @@ Here’s the structure of the project:
 
 <img width="786" height="495" alt="image" src="https://github.com/user-attachments/assets/9b4884ef-f8dd-4729-8a64-659be84c2979" />
 
-Fatigue-Level-Classifier/
-├── Data/
-
-│   ├── Best_Model/             # Final production-ready model
-│   ├── Engineered_Data/        # Features ready for training
-│   ├── Logging/                # Training/Error logs
-│   ├── Metrics/                # JSON/CSV performance results
-│   ├── Models/                 # Checkpoints during training
-│   ├── Preprocessed_Data/      # Cleaned/Imputed data
-│   └── Raw_Data/               # Original Kaggle/Source data
-├── Notebook/
-│   ├── data_analysis.ipynb
-
-│   ├── data_loader.ipynb
-
-│   ├── engineering.ipynb
-│   ├── preprocessing.ipynb
-
-│   ├── testing.ipynb
-│   └── training.ipynb
-├── Scripts/                    
-│   ├── data_analysis.py
-│   ├── data_engineering.py
-│   ├── data_loader.py
-│   ├── data_preprocessing.py
-│   ├── model_testing.py
-│   └── model_training.py
-├── src/                        # Modular, reusable logic
-│   ├── __init__.py             
-│   ├── data_analysis.py
-│   ├── data_engineering.py
-│   ├── data_loader.py
-│   ├── data_preprocessing.py
-│   ├── model_testing.py
-│   └── model_training.py
-├── .gitignore                  # Prevents data/logs from being uploaded
-├── README.md                   # Project documentation
-└── requirements.txt            # Library dependencies
-
 ### Explanation:
 
 - **Data/**: This folder contains all the data files, including raw data, preprocessed data, engineered features, and model logs.
