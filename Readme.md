@@ -70,8 +70,9 @@ Here’s the structure of the project:
 
 <img width="786" height="495" alt="image" src="https://github.com/user-attachments/assets/9b4884ef-f8dd-4729-8a64-659be84c2979" />
 
-Fatigue-Level-Classifier
+Fatigue-Level-Classifier/
 ├── Data/
+
 │   ├── Best_Model/             # Final production-ready model
 │   ├── Engineered_Data/        # Features ready for training
 │   ├── Logging/                # Training/Error logs
@@ -81,9 +82,12 @@ Fatigue-Level-Classifier
 │   └── Raw_Data/               # Original Kaggle/Source data
 ├── Notebook/
 │   ├── data_analysis.ipynb
+
 │   ├── data_loader.ipynb
+
 │   ├── engineering.ipynb
 │   ├── preprocessing.ipynb
+
 │   ├── testing.ipynb
 │   └── training.ipynb
 ├── Scripts/                    
