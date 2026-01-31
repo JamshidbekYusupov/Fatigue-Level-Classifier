@@ -69,40 +69,39 @@ After comparing all models, **XGBoost** outperformed the others in terms of reca
 Here’s the structure of the project:
 
 Fatigue-Level-Classifier/
-├── Data/ # Contains all data files
-│ ├── Engineered_Data/ # Features and transformed data
-│ ├── Preprocessed_Data/ # Cleaned and processed data
-│ ├── Raw_Data/ # Original raw data from Kaggle
-│ ├── Logging/ # Logs for tracking model training
-│ ├── Metrics/ # Model performance metrics
-│ ├── Models/ # Trained models
-│ └── Best_Model/ # The best performing model
-├── Notebook/ # Jupyter Notebooks for analysis and experimentation
-│ ├── data_analysis.ipynb # Data analysis and visualization
-│ ├── data_loader.ipynb # Data loading and exploration
-│ ├── engineering.ipynb # Feature engineering and transformations
-│ ├── preprocessing.ipynb # Data preprocessing and cleaning
-│ ├── testing.ipynb # Model testing and evaluation
-│ └── training.ipynb # Model training and hyperparameter tuning
-├── Scripts/ # Python scripts for automated tasks
-│ ├── data_analysis.py # Script for data analysis
-│ ├── data_engineering.py # Feature engineering script
-│ ├── data_loader.py # Data loading and preparation
-│ ├── data_preprocessing.py # Script for data cleaning and processing
-│ ├── model_testing.py # Script for model testing and evaluation
-│ └── model_training.py # Script for model training
-├── src/ # Source code
-│ ├── pycache/ # Python cache files
-│ ├── data_analysis.py # Core data analysis functions
-│ ├── data_engineering.py # Core feature engineering functions
-│ ├── data_loader.py # Data loading functions
-│ ├── data_preprocessing.py # Data preprocessing functions
-│ ├── model_testing.py # Functions for model testing
-│ └── model_training.py # Functions for model training
-├── requirements.txt # List of Python dependencies
-├── README.md # Project overview and instructions
-└── .gitignore # Git ignore file to exclude unnecessary files
-
+├── Data/
+│   ├── Best_Model/             # Final production-ready model
+│   ├── Engineered_Data/        # Features ready for training
+│   ├── Logging/                # Training/Error logs
+│   ├── Metrics/                # JSON/CSV performance results
+│   ├── Models/                 # Checkpoints during training
+│   ├── Preprocessed_Data/      # Cleaned/Imputed data
+│   └── Raw_Data/               # Original Kaggle/Source data
+├── Notebook/
+│   ├── data_analysis.ipynb
+│   ├── data_loader.ipynb
+│   ├── engineering.ipynb
+│   ├── preprocessing.ipynb
+│   ├── testing.ipynb
+│   └── training.ipynb
+├── Scripts/                    
+│   ├── data_analysis.py
+│   ├── data_engineering.py
+│   ├── data_loader.py
+│   ├── data_preprocessing.py
+│   ├── model_testing.py
+│   └── model_training.py
+├── src/                        # Modular, reusable logic
+│   ├── __init__.py             
+│   ├── data_analysis.py
+│   ├── data_engineering.py
+│   ├── data_loader.py
+│   ├── data_preprocessing.py
+│   ├── model_testing.py
+│   └── model_training.py
+├── .gitignore                  # Prevents data/logs from being uploaded
+├── README.md                   # Project documentation
+└── requirements.txt            # Library dependencies
 
 ### Explanation:
 
